@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/anggaagustiratelkom/react_web.git/precache-manifest.81bdf021ef9172a406dc043a18e361f2.js"
+  "/anggaagustiratelkom/react_web.git/precache-manifest.397d5f55c0e0b85829b4891f84d84b4e.js"
 );
 
 workbox.clientsClaim();
